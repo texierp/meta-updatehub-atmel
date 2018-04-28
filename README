@@ -1,0 +1,16 @@
+Atmel OpenEmbedded/Yocto Project BSP support layer for UpdateHub
+================================================================
+
+UpdateHub provides a generic and safe Firmware Over-The-Air agent for
+Embedded and Industrial Linux-based devices.
+
+Dependencies
+------------
+
+This layer depends on:
+
+  URI: git://github.com/linux4sam/meta-atmel.git
+  branch: rocko
+
+  URI: git://github.com/UpdateHub/meta-updatehub.git
+  branch: rocko
